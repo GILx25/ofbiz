@@ -21,6 +21,7 @@
 
     <!-- allow admin and demo employee to read company EMail -->
     <Party partyId="admin" statusId="PARTY_ENABLED"/>
+    <Party partyId="Gaguilera2" statusId="PARTY_ENABLED"/>
     <Party partyId="Company" statusId="PARTY_ENABLED"/>
     <Party partyId="DemoEmployee" statusId="PARTY_ENABLED"/>
     <PartyRole partyId="admin" roleTypeId="EMAIL_ADMIN"/>
